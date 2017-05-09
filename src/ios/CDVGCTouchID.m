@@ -1,6 +1,6 @@
 //
-//  CDVGCNSUsersDefaults.m
-//  CDVGCNSUsersDefaults
+//  CDVGCTouchID.m
+//  CDVGCTouchID
 //
 //  MIT License
 //
