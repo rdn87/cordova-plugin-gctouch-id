@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-gctouch-id"
+        version="0.0.1">
+    <name>GCTouchID</name>
+    <description>GCTouchID Plugin for iOS</description>
+    <author>Giulio Caruso aka rdn</author>
+    <license>MIT License</license>
+    <keywords>cordova, ios, plugin, touch id, fingerprint, authentication, auth</keywords>
+    <repo>https://github.com/rdn87/cordova-plugin-gctouch-id</repo>
+    
+    <!-- JS Module -->
+    <js-module src="www/gctouchid.js" name="GCTouchID">
+        <clobbers target="GCTouchID" />
+    </js-module>
+
+    <!-- iOS -->
+    <platform name="ios">
+        <config-file target="config.xml" parent="/*">
+            <feature name="GCTouchID">
+                <param name="ios-package" value="CDVGCTouchID"/>
+            </feature>
+        </config-file>
+        <header-file src="src/ios/CDVGCTouchID.h" />
+        <source-file src="src/ios/CDVGCTouchID.m" />       
+    </platform>
+</plugin>
