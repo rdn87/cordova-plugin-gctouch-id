@@ -44,6 +44,7 @@ Use the Cordova CLI and type in the following command:
 **WORK IN PROGRESS**
 
 # 5. TO DO
+- [x] Add Basic Authentication with Touch ID
 - [ ] Add NSUsersDefaults support
 - [ ] Add UITextField input text support
 - [ ] Add Keychain support
