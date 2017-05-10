@@ -17,6 +17,7 @@ With this plug-in Cordova you can use the TouchID for Authenticate in your App
 The Plugin is only iOS Platform.
 
 ## Screenshot
+![ScreenShot]
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/home.jpg" alt="GCTouchID">
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/touchid.jpg" alt="GCTouchID">
 
