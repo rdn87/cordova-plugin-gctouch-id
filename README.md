@@ -7,7 +7,7 @@ Author: [Giulio Caruso aka rdn](https://twitter.com/iosdeveloper87)
 ## Index
 
 1. [Description](#1-description)
-2. [Screenshot](#2-screenshot)
+2. [Screenshot](#2-Screenshot)
 3. [Adding the Plugin](#3-adding-the-plugin)
 4. [Sample Code](#4-sample-code)
 
