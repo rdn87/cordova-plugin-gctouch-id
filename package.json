@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-touch-id",
+  "name": "cordova-plugin-gctouch-id",
   "version": "0.0.1",
   "description": "Touch ID for iOS",
   "main": "gctouchid.js",
