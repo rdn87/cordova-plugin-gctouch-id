@@ -11,6 +11,7 @@ Author: [Giulio Caruso aka rdn](https://twitter.com/iosdeveloper87)
 3. [Adding the Plugin](#3-adding-the-plugin)
 4. [Sample Code](#4-sample-code)
 5. [To Do](#5-to-do)
+6. [License](#6-license)
 
 ## 1. Description
 
@@ -45,3 +46,6 @@ Use the Cordova CLI and type in the following command:
 - [ ] Improve code 
 - [ ] Add npm repo
 
+# 6. License
+
+cordova-plugin-gctouch-id is available under the MIT license. See the **[LICENSE](https://github.com/rdn87/cordova-plugin-gctouch-id/blob/master/LICENSE)** file for more info.
