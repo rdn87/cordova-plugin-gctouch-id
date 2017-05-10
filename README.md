@@ -44,4 +44,4 @@ Use the Cordova CLI and type in the following command:
 - [ ] Add Keychain support
 - [ ] Improve code 
 - [ ] Add npm repo
-- [![✓]] First Commit
+
