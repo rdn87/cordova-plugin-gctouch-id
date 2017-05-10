@@ -3,7 +3,7 @@ TouchID Plugin (Cordova) for iOS
 Author: [Giulio Caruso aka rdn](https://twitter.com/iosdeveloper87)
 
 <p align="center"><img src="https://github.giuliocaruso.it/GCTouchID/images/gctouchid.jpg" alt="GCTouchID"></p>
-[![Language](https://img.shields.io/badge/language-objective--c-green.svg)](https://developer.apple.com/reference/objectivec)
+<img src="https://img.shields.io/badge/language-objective--c-green.svg"/>
 
 
 
