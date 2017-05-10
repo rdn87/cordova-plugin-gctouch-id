@@ -40,8 +40,34 @@
 /**
 *  Try Auth with Touch ID
 *
-*  @param command        with this param you can pass many info for Touch ID
+*  @param command with this param you can pass many info for Touch ID
+*
 */
 -(void)authWithTouchID:(CDVInvokedUrlCommand *)command;
 
+
+-(void)setPassword:(CDVInvokedUrlCommand *)command;
+
+#pragma mark Utility for Auth with Password
+
+/**
+* Check if u want keyChain or NSUsersDefaults
+*
+* @param pwd true 'USE KeyChain' false 'USE NSUsersDefaults'
+*/
+-(BOOL)isValidPassword:(NSString *)pwd;
+
+/**
+ * Return true in successCallback
+ *
+ * @param command : This param have many info for this function
+ */
+-(void)returnSuccess:(CDVInvokedUrlCommand *)command;
+
+/**
+ * Return false in errorCallback
+ *
+ * @param command : This param have many info for this function
+ */
+-(void)returnError:(CDVInvokedUrlCommand *)command;
 @end

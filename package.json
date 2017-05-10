@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-gctouch-id",
+  "version": "0.0.1",
+  "description": "Touch ID for iOS",
+  "main": "gctouchid.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdn87/cordova-plugin-gctouch-id.git"
+  },
+  "keywords": [
+    "app",
+    "ios",
+    "cordova",
+    "wrapper",
+    "plugin",
+    "fingerprint",
+    "giulio",
+    "caruso",
+    "giulio caruso",
+    "touchid",
+    "touch id",
+    "auth",
+    "authentication"
+  ],
+  "author": "Giulio Caruso aka rdn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdn87/cordova-plugin-gctouch-id/issues"
+  },
+  "homepage": "https://github.com/rdn87/cordova-plugin-gctouch-id#readme"
+}
