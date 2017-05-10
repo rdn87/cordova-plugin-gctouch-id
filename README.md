@@ -11,13 +11,12 @@ Author: [Giulio Caruso aka rdn](https://twitter.com/iosdeveloper87)
 3. [Adding the Plugin](#3-adding-the-plugin)
 4. [Sample Code](#4-sample-code)
 
-## Description
+## 1. Description
 
 With this plug-in Cordova you can use the TouchID for Authenticate in your App
 The Plugin is only iOS Platform.
 
-## Screenshot
-![ScreenShot]
+## 2. Screenshot
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/home.jpg" alt="GCTouchID">
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/touchid.jpg" alt="GCTouchID">
 
