@@ -30,8 +30,7 @@ The Plugin is only iOS Platform.
 |   8.0+  |
 
 ## 2. Screenshot
-<img src="https://github.giuliocaruso.it/GCTouchID/screen/home.jpg" alt="GCTouchID">
-<img src="https://github.giuliocaruso.it/GCTouchID/screen/touchid.jpg" alt="GCTouchID">
+<img src="https://github.giuliocaruso.it/GCTouchID/screen/home.jpg" alt="GCTouchID" width="300"><img src="https://github.giuliocaruso.it/GCTouchID/screen/touchid.jpg" alt="GCTouchID" width="300">
 
 # 3. Adding the Plugin
 
