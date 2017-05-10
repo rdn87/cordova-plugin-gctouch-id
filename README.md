@@ -10,14 +10,38 @@ Author: [Giulio Caruso aka rdn](https://twitter.com/iosdeveloper87)
 2. [Screenshot](#2-screenshot)
 3. [Adding the Plugin](#3-adding-the-plugin)
 4. [Sample Code](#4-sample-code)
+5. [To Do](#5-to-do)
 
 ## 1. Description
 
-With this plug-in Cordova you can use the TouchID for Authenticate in your App
+With this plug-in Cordova you can use the TouchID sensor **(iPhone 5S/iPhone 6/iPhone 6 Plus/iPhone 7/iPhone 7 Plus/iPad with Touch ID Sensor)** for Authenticate in your App
+
 The Plugin is only iOS Platform.
+
+**Requirements**
+===========
+| **iOS** | 
+|---------|
+|   8.0+  |
 
 ## 2. Screenshot
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/home.jpg" alt="GCTouchID">
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/touchid.jpg" alt="GCTouchID">
 
+# 3. Adding the Plugin
 
+Use the Cordova CLI and type in the following command:
+
+`cordova plugin add https://github.com/rdn87/cordova-plugin-gctouch-id.git`
+
+# 4. Sample Code
+
+**WORK IN PROGRESS**
+
+# 5. TO DO
+- [ ] Add NSUsersDefaults support
+- [ ] Add UITextField input text support
+- [ ] Add Keychain support
+- [ ] Improve code 
+- [ ] Add npm repo
+- [![✓]] First Commit
