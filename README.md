@@ -55,8 +55,6 @@ In this plugin there are 3 basic methods:
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/3.jpg" alt="GCTouchID" width="260">&nbsp;
 <img src="https://github.giuliocaruso.it/GCTouchID/screen/4.jpg" alt="GCTouchID" width="260">&nbsp;
 
-# DOCS
-
 # 4. Adding the Plugin
 
 Use the Cordova CLI and type in the following command:
