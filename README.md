@@ -1,5 +1,5 @@
 # cordova-plugin-gctouch-id
-TouchID Plugin (Cordova) for iOS
+Touch ID Plugin (Cordova) for iOS
 
 Author: [Giulio Caruso aka rdn](https://twitter.com/iosdeveloper87)
 
