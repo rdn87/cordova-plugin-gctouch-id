@@ -83,18 +83,19 @@ NSString *const kSERVER = @"GCSERVER";
                                       CDVPluginResult *pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK messageAsBool:true];
                                       [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
                                   } else {
-                                      
                                       switch (error.code) {
-                                          case LAErrorUserFallback:
+                                          case LAErrorUserFallback:{
                                               [[NSOperationQueue mainQueue] addOperationWithBlock:^() {
-                                                  
                                                   [self showEnterPassword:security :command];
-                                                  
                                               }];
-                                              
                                               break;
+                                          }
+                                          case -8:{
+                                               CDVPluginResult *pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_ERROR messageAsBool:false];
+                                              [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
+                                              break;
+                                          }
                                       }
-                                      
                                   }
                                   
                               }];
